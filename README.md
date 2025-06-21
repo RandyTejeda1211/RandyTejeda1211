@@ -9,6 +9,6 @@
 <h1 >Tecnologias que manejo</h1>
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,vscode,visualstudio,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,tailwind,mysql,vscode,visualstudio,&perline=12" />
   </a>
 </p>
