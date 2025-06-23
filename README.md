@@ -12,3 +12,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,tailwind,mysql,vscode,visualstudio,&perline=12" />
   </a>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Randy%20Tejeda&theme=dark&hide_border=true)](https://git.io/streak-stats)
