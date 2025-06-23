@@ -12,5 +12,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,cs,tailwind,mysql,vscode,visualstudio,&perline=12" />
   </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RandyTejeda1211&theme=dark&hide_border=&locale=es&short_numbers=&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
