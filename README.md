@@ -40,6 +40,6 @@
 <hr>
 
 ### 📫 Contacto
-[![Email](https://img.shields.io/badge/Gmail-randy.tuemail@gmail.com-red?logo=gmail)](mailto:randyenyer1@gmail.com)  
+[![Email](https://img.shields.io/badge/Gmail-randyenyer1@gmail.com-blue?logo=gmail)](mailto:randyenyer1@gmail.com)  
 <hr>
 
