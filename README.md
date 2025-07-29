@@ -15,7 +15,7 @@
 ### 🧰 Mi Stack
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,tailwind,mysql,vscode,visualstudio&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,cs,mysql,vscode,visualstudio&perline=9" />
   </a>
 </p>
 
