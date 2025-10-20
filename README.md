@@ -5,7 +5,7 @@
 
 
 ### ✨ Sobre mí
-- 🎓 En formación como desarrollador de software con enfoque en **aplicaciones de escritorio**.
+- 🎓 En formación como desarrollador de software con enfoque en **aplicaciones de Web**.
 - 🎯 Me encanta fusionar **funcionalidad** con **estética** en herramientas técnicas.
 - 🚀 Apasionado de tecnologías como **C#** y **SQL**.
 - 🤝 Siempre abierto a colaboraciones que me reten y aporten crecimiento mutuo.
