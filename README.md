@@ -21,26 +21,6 @@
 
 <hr>
 
-### 🚧 Proyectos destacados
-
-<table>
-  <tr>
-    <td width="400px">
-      <a href="https://github.com/RandyTejeda1211/SGBYM">
-        <img src="https://raw.githubusercontent.com/RandyTejeda1211/RandyTejeda1211/main/SGBYMPreview.png" alt="Vista previa SGBYM" width="100%" />
-      </a>
-    </td>
-    <td>
-      <h3><a href="https://github.com/RandyTejeda1211/SGBYM">SGBYM</a></h3>
-      <p>Descripción breve del proyecto: un sistema de gestión de biblioteca desarrollado en C# y MySQL.</p>
-      <p><strong>Tecnologías:</strong> C#, MySQL, Tailwind CSS</p>
-    </td>
-  </tr>
-</table>
-
-
-<hr>
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RandyTejeda1211&show_icons=true&theme=github_dark" />
